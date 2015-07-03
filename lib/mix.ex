@@ -196,7 +196,7 @@ The task retrieves the built Xen image from the Erlang on Xen Build Service.
 	end
 end
 
-defmodule Mix.Tasks.Lingex.Build_image do
+defmodule Mix.Tasks.Lingex.BuildImage do
 
 	@moduledoc """
 The task builds a Xen image for the project using the Erlang on Xen Build
